@@ -1,6 +1,11 @@
 # Dispositivo Dinâmico de Presença DDP
 
-Nomes: Cibeli Aparecida, Carlos Miguel Bissoni Ribeiro, Isareal Trasejo, Raquel de Freitas e Victor Gabreil Fernandes
+Nomes: Carlos Miguel Bissoni Ribeiro,
+Cibeli Aparecida Soares Moreira,
+Israel Augusto Trajano,
+Raquel de Freitas Oliveira Carvalho,
+Victor Gabriel Fernandes.
+
 
 ---
 
